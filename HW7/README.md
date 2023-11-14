@@ -9,9 +9,11 @@ Reasons for the graph being bad
   
 - Use of many colors
   
-- Unevenly spaced axes. The voltage axis has 0.2 spacing and 0.1 spacing at equal scale. The same is the case for the Flowing Rate axis.
+- Unevenly spaced axes. The voltage axis has 0.2 spacing and 0.1 spacing at equal 
+  scale. The same is the case for the Flowing Rate axis.
   
-- The bar height exudes a false impression on viewers. 2.9 V bar is 2-3 times taller than 2.0 V bar. Similarly, 316 mL/min bar is as taller as 0 mL/min bar.
+- The bar height exudes a false impression on viewers. 2.9 V bar is 2-3 times 
+  taller than 2.0 V bar. Similarly, 316 mL/min bar is as taller as 0 mL/min bar.
 
 
 
@@ -19,4 +21,12 @@ Reasons for the graph being bad
 
 <img width="722" alt="Screenshot 2023-11-14 at 8 52 28 AM" src="https://github.com/himalachudel/FDSFE_HAcharya/assets/144074437/e12c8078-b002-45f4-b57c-9c9e9945d400">
 Reasons for the graph being bad
-- 
+- Use of minimal colors, enough to separate between variables and not don' make it 
+  look complicated at the same time
+
+- Evenly spaced axes
+
+- Well-labeled axes with units
+
+- No disagreement between the heights/lengths of the bars/lines and their 
+  corresponding numeric values

@@ -1,5 +1,4 @@
-I have attached two graphs; one bad and one good in terms of how they are plotted and whether or not they are following simple norms of data visualization. The good graph is taken from https://doi.org/10.1016/
-S0140-6736(22)00017-4 and the bad graph is taken from https://doi.org/10.1021/acsami.8b19251
+I have attached two graphs; one bad and one good in terms of how they are plotted and whether or not they are following simple norms of data visualization. The good graph is taken from https://doi.org/10.1016/S0140-6736(22)00017-4 and the bad graph is taken from https://doi.org/10.1021/acsami.8b19251
 
 
 

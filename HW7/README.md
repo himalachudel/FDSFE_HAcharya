@@ -1,3 +1,10 @@
+I have attached two graphs; one bad and one good in terms of how they are plotted and whether or not they are following simple norms of data visualization. The good graph is taken from https://doi.org/10.1016/
+S0140-6736(22)00017-4 and the bad graph is taken from https://doi.org/10.1021/acsami.8b19251
+
+
+
+
+
 **Bad Graph**
 
 <img width="1301" alt="Screenshot 2023-11-14 at 9 13 43 AM" src="https://github.com/himalachudel/FDSFE_HAcharya/assets/144074437/d300576a-597f-4be2-8df4-1b213af2a0fa">

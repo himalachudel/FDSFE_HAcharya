@@ -46,7 +46,11 @@ I have attached two graphs; one bad and one good in terms of how they are plotte
   corresponding numeric values
 
 
-Following are the two graphs from past homework. The old graph is the one that was submitted as homework and the new one is after making some changes.
+
+
+
+
+**Following are the two graphs from past homework. The old graph is the one that was submitted as homework and the new one is after making some changes.**
 
 **Old Graph** 
 

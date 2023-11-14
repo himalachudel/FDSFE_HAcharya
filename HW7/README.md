@@ -9,7 +9,7 @@
 
 **Reasons for the graph being bad**
 
-- Expression of data in 3D format is making it look messy
+- Expression of data in 3D format is making it look messy and misleading to some extent
   
 - Fitting in too many variables in a single graph
   

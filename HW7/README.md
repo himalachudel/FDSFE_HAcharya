@@ -63,7 +63,7 @@
 
 The changes made in the old graph are:
 - The legend title was missing earlier which is now corrected
-- The label of the Y axis was oriented at 45 deg which made it visually less aesthetic. It is now rotated at 0 deg
+- The label of the Y axis was oriented at 45 deg which made it visually less aesthetic. It is now oriented at 0 deg
 - The title of the graph was missing earlier which is corrected now
 
 **New Graph**

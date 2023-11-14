@@ -49,7 +49,12 @@
 
 
 
-**Following are the two graphs from past homework. The old graph is the one that was submitted as homework and the new one is after making some changes.**
+
+
+
+
+
+**2. Following are the two graphs from past homework. The old graph is the one that was submitted as homework and the new one is after making some changes.**
 
 **Old Graph** 
 

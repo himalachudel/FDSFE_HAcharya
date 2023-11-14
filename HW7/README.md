@@ -46,7 +46,7 @@ I have attached two graphs; one bad and one good in terms of how they are plotte
   corresponding numeric values
 
 
-
+Following are the two graphs from past homework. The old graph is the one that was submitted as homework and the new one is after making some changes.
 
 **Old Graph** 
 
@@ -54,6 +54,11 @@ I have attached two graphs; one bad and one good in terms of how they are plotte
 ![download](https://github.com/himalachudel/FDSFE_HAcharya/assets/144074437/c479bc75-c48b-4b54-9573-7463e0aa8f35)
 
 
+
+The changes made in the old graph are:
+- Title was missing in legend earlier which is now corrected
+- The labe of Y axis was oriented at 45 deg which made it visually less aestheic. It is now rotated at 0 deg
+- The title of the graph was missing earlier which is corrected now
 
 **New Graph**
 

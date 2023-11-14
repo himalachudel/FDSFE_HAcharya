@@ -17,7 +17,7 @@ I have attached two graphs; one bad and one good in terms of how they are plotte
 - Use of many colors
   
 - Unevenly spaced axes. The voltage axis has 0.2 spacing and 0.1 spacing at equal 
-  scale. The same is the case for the Flowing Rate axis.
+  distance. The same is the case for the Flowing Rate axis.
   
 - The bar height exudes a false impression on viewers. 2.9 V bar is 2-3 times 
   taller than 2.0 V bar. Similarly, 316 mL/min bar is as taller as 0 mL/min bar.

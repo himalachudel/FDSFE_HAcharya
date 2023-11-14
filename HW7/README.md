@@ -24,7 +24,8 @@
 
 
 
-**Reasons for the graph being bad**
+
+**Reasons for the graph being good**
 
 - Use of minimal colors, enough to separate between variables and not don' make it 
   look complicated at the same time

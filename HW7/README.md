@@ -46,12 +46,18 @@ I have attached two graphs; one bad and one good in terms of how they are plotte
   corresponding numeric values
 
 
+
+
 **Old Graph** 
+
+
 ![download](https://github.com/himalachudel/FDSFE_HAcharya/assets/144074437/c479bc75-c48b-4b54-9573-7463e0aa8f35)
 
 
 
 **New Graph**
+
+
 ![download (1)](https://github.com/himalachudel/FDSFE_HAcharya/assets/144074437/74b576dc-cd25-4e08-b4d9-83da4713c6cd)
 
 

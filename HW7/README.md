@@ -42,7 +42,7 @@
 - Well-labeled axes with units
 
 - No disagreement between the heights/lengths of the bars/lines and their 
-  corresponding numeric values
+  corresponding numeric values.
 
 
 
@@ -64,8 +64,8 @@
 
 
 The changes made in the old graph are:
-- Title was missing in legend earlier which is now corrected
-- The labe of Y axis was oriented at 45 deg which made it visually less aestheic. It is now rotated at 0 deg
+- The title was missing in the legend earlier which is now corrected
+- The label of the Y axis was oriented at 45 deg which made it visually less aesthetic. It is now rotated at 0 deg
 - The title of the graph was missing earlier which is corrected now
 
 **New Graph**

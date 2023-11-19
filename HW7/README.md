@@ -27,9 +27,9 @@ The Tufte's 5 rules are violated in the following ways:
 
 - Data/ink >> 1: Use of more than necessary ink.
 
-- No chart junk: The chark looks junk because of the 3D graphical expression
+- Chart junk: The chark looks junk because of the 3D graphical expression
 
-- Use small-multiples: The data is not time series so this rule doesn't apply here.
+- Use small multiples: The data is not time series so this rule doesn't apply here.
   
 - Avoid redundancy in communication: The use of different colors for different flow rates is not necessary.
 
@@ -57,7 +57,17 @@ The Tufte's 5 rules are violated in the following ways:
   
 - Well-labeled axes with units
 
+The Tufte's 5 rules are more or less followed:
 
+- Effect size is ~ 1
+
+- Data/ink >> 1: Use of minimal ink and maximum data
+  
+- Chart junk: No such junk chart
+
+- Use small multiples: The data is not time series so this rule doesn't apply here.
+
+- Avoid redundancy in communication: No such redundancy in communication
 
 
 

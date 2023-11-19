@@ -13,7 +13,7 @@
   
 - Distraction: Fitting in too many variables and too many colors in a single graph
   
-- Unevenly spaced axes. The voltage axis has 0.2 spacing and 0.1 spacing at equal 
+- Ambiguity: Unevenly spaced axes. The voltage axis has 0.2 spacing and 0.1 spacing at equal 
   distances. The same is the case for the Flowing Rate axis.
   
 - Ambiguity: The bar height exudes a false impression on viewers. 2.9 V bar is 2-3 times 

@@ -48,14 +48,14 @@ The Tufte's 5 rules are violated in the following ways:
 **Reasons for the graph being good**
 
 - Use of minimal colors, just enough to separate between variables, and don't make it 
-  look complicated at the same time
+  look complicated at the same time (No distraction)
 
-- Evenly spaced axes
-
-- Well-labeled axes with units
+- Evenly spaced axes (No ambiguity)
 
 - No disagreement between the heights/lengths of the bars/lines and their 
-  corresponding numeric values.
+  corresponding numeric values (No distortion)
+  
+- Well-labeled axes with units
 
 
 

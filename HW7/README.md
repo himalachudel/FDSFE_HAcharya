@@ -22,16 +22,16 @@
 
 The Tufte's 5 rules are violated in the following ways:
 
-- effect size ~ 1: Effect size is not ~1 in most of the situations because the height of bars doesn't agree with the numerical values 
+- Effect size ~ 1: Effect size is not ~1 in most of the situations because the height of bars doesn't agree with the numerical values 
   assigned with them
 
-- data/ink >> 1: Use of more than necessary ink.
+- Data/ink >> 1: Use of more than necessary ink.
 
-- no chart junk: The chark looks junk because of the 3D graphical expression
+- No chart junk: The chark looks junk because of the 3D graphical expression
 
-- use small-multiples: The data is not time series so this rule doesn't apply here.
+- Use small-multiples: The data is not time series so this rule doesn't apply here.
   
-- avoid redundancy in communication: The use of different colors for different flow rates is not necessary.
+- Avoid redundancy in communication: The use of different colors for different flow rates is not necessary.
 
 
 

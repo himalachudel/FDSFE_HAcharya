@@ -9,14 +9,14 @@
 
 **Reasons for the graph being bad**
 
-- Expression of data in 3D format is making it look messy and misleading to some extent
+- Distortion: Expression of data in 3D format is making it look messy and misleading to some extent
   
-- Fitting in too many variables in a single graph
+- Distraction: Fitting in too many variables in a single graph
   
 - Unevenly spaced axes. The voltage axis has 0.2 spacing and 0.1 spacing at equal 
   distances. The same is the case for the Flowing Rate axis.
   
-- The bar height exudes a false impression on viewers. 2.9 V bar is 2-3 times 
+- Ambiguity: The bar height exudes a false impression on viewers. 2.9 V bar is 2-3 times 
   taller than 2.0 V bar. Similarly, 316 mL/min bar is as taller as 0 mL/min bar.
 
 

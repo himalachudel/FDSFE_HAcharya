@@ -27,7 +27,7 @@
 
 - use small-multiples: The data is not time series so this rule doesn't apply here.
   
-- avoid redundancy in communication: 
+- avoid redundancy in communication: Use of different colors for different flow rates is far for necessary.
 
 
 

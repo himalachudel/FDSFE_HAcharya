@@ -19,6 +19,17 @@
 - Ambiguity: The bar height exudes a false impression on viewers. 2.9 V bar is 2-3 times 
   taller than 2.0 V bar. Similarly, 316 mL/min bar is as taller as 0 mL/min bar.
 
+- effect size ~ 1: Effect size is not ~1 in most of the situations because the height of bars doesnot agree with the numerical values assigned with them
+
+- data/ink >> 1: Use of more than necessary ink.
+
+- no chart junk: The chark looks junk because of 3D graphical expression
+
+- use small-multiples:
+  
+- avoid redundancy in communication: 
+
+
 
 
 

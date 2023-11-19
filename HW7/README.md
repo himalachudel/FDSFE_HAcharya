@@ -50,10 +50,10 @@ The Tufte's 5 rules are violated in the following ways:
 - Use of minimal colors, just enough to separate between variables, and don't make it 
   look complicated at the same time (No distraction)
 
-- Evenly spaced axes (No ambiguity)
+- Evenly spaced axes (No distortion)
 
 - No disagreement between the heights/lengths of the bars/lines and their 
-  corresponding numeric values (No distortion)
+  corresponding numeric values (No ambiguity)
   
 - Well-labeled axes with units
 

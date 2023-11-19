@@ -11,7 +11,7 @@
 
 - Distortion: Expression of data in 3D format is making it look messy and misleading to some extent
   
-- Distraction: Fitting in too many variables in a single graph
+- Distraction: Fitting in too many variables and too many colors in a single graph
   
 - Unevenly spaced axes. The voltage axis has 0.2 spacing and 0.1 spacing at equal 
   distances. The same is the case for the Flowing Rate axis.

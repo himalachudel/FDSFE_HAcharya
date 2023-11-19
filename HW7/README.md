@@ -25,7 +25,7 @@
 
 - no chart junk: The chark looks junk because of 3D graphical expression
 
-- use small-multiples:
+- use small-multiples: The data is not time series so this rule doesn't apply here.
   
 - avoid redundancy in communication: 
 

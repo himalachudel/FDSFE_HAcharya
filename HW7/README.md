@@ -17,20 +17,21 @@
   distances. The same is the case for the Flowing Rate axis.
   
 - Ambiguity: The bar height exudes a false impression on viewers. 2.9 V bar is 2-3 times 
-  taller than 2.0 V bar. Similarly, 316 mL/min bar is as taller as 0 mL/min bar.
+  taller than 2.0 V bar. Similarly, 316 mL/min bar is as tall as 0 mL/min bar.
 
 
-The Tufte's 5 rules are violated in following ways by the graph above
+The Tufte's 5 rules are violated in the following ways:
 
-- effect size ~ 1: Effect size is not ~1 in most of the situations because the height of bars doesnot agree with the numerical values assigned with them
+- effect size ~ 1: Effect size is not ~1 in most of the situations because the height of bars doesn't agree with the numerical values 
+  assigned with them
 
 - data/ink >> 1: Use of more than necessary ink.
 
-- no chart junk: The chark looks junk because of 3D graphical expression
+- no chart junk: The chark looks junk because of the 3D graphical expression
 
 - use small-multiples: The data is not time series so this rule doesn't apply here.
   
-- avoid redundancy in communication: Use of different colors for different flow rates is far for necessary.
+- avoid redundancy in communication: The use of different colors for different flow rates is not necessary.
 
 
 

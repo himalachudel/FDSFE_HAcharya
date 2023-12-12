@@ -1,1 +1,1 @@
-
+**This was done by me alone with little guidance from Dr. Bianco. I used the model Dr. Bianco wrote and used my portrait for decoding and encoding. The autoencoded picture didn't look as good as the results from the earlier portraits.**
